@@ -162,6 +162,11 @@ html_css_files = [
     'css/default.css',
 ]
 
+# Add any paths that contain custom JavaScript files here, relative to this directory.
+html_js_files = [
+    'js/guru_widget.js',
+]
+
 # Add any extra paths that contain custom files (such as robots.txt or
 # .htaccess) here, relative to this directory. These files are copied
 # directly to the root of the documentation.
