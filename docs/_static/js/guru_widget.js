@@ -1,8 +1,9 @@
 document.write(`
     <script src="https://guru-widget.pages.dev/guru_widget.latest.min.js" 
         data-text="Ask AI" 
-        data-link="https://gurubase.io/g/robyn" 
-        data-bg-color="#F1C311" 
-        data-icon-url="https://gurubase.io/_next/image?url=https%3A%2F%2Fuser-images.githubusercontent.com%2F29942790%2F140995889-5d91dcff-3aa7-4cfb-8a90-2cddf1337dca.png&w=96&q=75">
+        data-link="https://gurubase.io/g/connexion" 
+        data-bg-color="#64B45C" 
+        data-icon-url="https://gurubase.io/_next/image?url=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F58754196%3Fv%3D4&w=96&q=75"
+        data-margins='{"bottom": "3rem", "right": "1rem"}'>
     </script>
 `);
